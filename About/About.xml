@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Faction Territories and Vassalage - Ukrainian</name>
+  <author>Infinity_Basement</author>
+  <packageId>Infinity_Basement.FactionTerritoriesAndVassalage</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Повний переклад тексту модифікації Faction Territories and Vassalage на українську мову.</description>
+</ModMetaData>
